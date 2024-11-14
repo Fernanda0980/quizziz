@@ -11,7 +11,7 @@ const perguntas = [
     },
     {
       categoria: 'Português',
-      pergunta: 'O que é um adjetivo?'
+      pergunta: 'O que é um adjetivo?',
       resposta: 'É uma palavra que descreve ou qualifica um substantivo, indicando características, estados ou propriedades.'
     },
     {
